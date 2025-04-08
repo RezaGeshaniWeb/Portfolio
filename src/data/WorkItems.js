@@ -92,19 +92,12 @@ const workItems = [
             {
                 id: 1,
                 icon: 'next',
-                link: '#',
-                name: 'Coming Soon',
-                description: 'So many project are in coming soon'
-            },
-            {
-                id: 2,
-                icon: 'next',
                 link: 'https://bama-next-router.vercel.app/',
                 name: 'Bama-Next-Router',
                 description: 'This project is for router configuration in Next.'
             },
             {
-                id: 3,
+                id: 2,
                 icon: 'next',
                 link: 'https://food-xi-sand-38.vercel.app/',
                 name: 'Food',
