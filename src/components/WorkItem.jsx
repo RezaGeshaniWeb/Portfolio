@@ -7,7 +7,7 @@ export default function WorkItem({ item: { link, name, description } }) {
     const { skillId } = getWork()
 
     return (
-        <a href={link} target={skillId === 3 ? '' : '_blank'} className="group *:transition-all *:duration-150">
+        <a href={link} target='_blank' className="group *:transition-all *:duration-150">
             <div className="flex items-center justify-between mb-10 *:text-2xl">
                 <span className="group-hover:text-primary">
                     {
