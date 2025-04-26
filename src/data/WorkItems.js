@@ -92,19 +92,26 @@ const workItems = [
             {
                 id: 1,
                 icon: 'next',
+                link: 'https://shop-six-psi-59.vercel.app/',
+                name: 'Shop',
+                description: 'This project is an online shop developed with Next.js and zunstand.'
+            },
+            {
+                id: 2,
+                icon: 'next',
                 link: 'https://admin-panel-mui-one.vercel.app/',
                 name: 'Admin Panel - MUI',
                 description: 'This project is an admin panel example developed with Next.js and MUI.'
             },
             {
-                id: 2,
+                id: 3,
                 icon: 'next',
                 link: 'https://food-xi-sand-38.vercel.app/',
                 name: 'Food',
                 description: 'This project is for routing and getting information from the API in Next.'
             },
             {
-                id: 3,
+                id: 4,
                 icon: 'next',
                 link: 'https://bama-next-router.vercel.app/',
                 name: 'Bama-Next-Router',
